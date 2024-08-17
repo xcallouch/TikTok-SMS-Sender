@@ -9,5 +9,4 @@ TikTok SMS Sender (Full requests) [argus, ladon, latest tiktok versions, devices
 - Need Proxies
 - X-Argus, X-Ladon, X-Gorgon, X-Khronos Included
 
-> price: **1000€**  
 > contact: [t.me/xcallouch](https://t.me/xcallouch)
